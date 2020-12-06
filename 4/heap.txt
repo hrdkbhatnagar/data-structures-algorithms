@@ -1,0 +1,2 @@
+ Initial value of heap is 0.
+Heap space after detection of cycles is  16000016.
