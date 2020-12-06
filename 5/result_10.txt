@@ -1,0 +1,3 @@
+Read 10 structs in 0.078000 ms 
+ 10 structs were sorted in in 0.086000 ms.
+ 10 Elements sorted, Stack Top: 140735503617524, Stack Bottom:140735503617892, Difference: 368 
